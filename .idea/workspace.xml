@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d6796810-119a-462e-94fe-5d350ce2d44d" name="Default" comment="Based on babyteam project&#10;New Points:&#10;1.static pages(Nginx)&#10;2.dynamic-static separation" />
+    <list default="true" id="d6796810-119a-462e-94fe-5d350ce2d44d" name="Default" comment="Based on babyteam project&#10;New Points:&#10;1.static pages(Nginx)&#10;2.dynamic-static separation">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -204,11 +206,6 @@
                 <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
                 <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
               </path>
-              <path>
-                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-              </path>
             </expand>
             <select />
           </treeState>
@@ -240,6 +237,7 @@
       <workItem from="1591776180971" duration="45000" />
       <workItem from="1591949072972" duration="1176000" />
       <workItem from="1591950299551" duration="22119000" />
+      <workItem from="1592448073207" duration="211000" />
     </task>
     <task id="LOCAL-00001" summary="Based on babyteam project&#10;New Points:&#10;1.static pages(Nginx)&#10;2.dynamic-static separation">
       <created>1591239952653</created>
@@ -248,11 +246,29 @@
       <option name="project" value="LOCAL" />
       <updated>1591239952653</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Based on babyteam project&#10;New Points:&#10;1.static pages(Nginx)&#10;2.dynamic-static separation">
+      <created>1592448246809</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1592448246809</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Based on babyteam project&#10;New Points:&#10;1.static pages(Nginx)&#10;2.dynamic-static separation" />
@@ -275,18 +291,18 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="371" y="90" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1591950397600" />
-    <state x="168" y="0" key="CommitChangelistDialog2" timestamp="1591239947982">
+    <state x="168" y="0" key="CommitChangelistDialog2" timestamp="1592448242055">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="168" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1591239947982" />
+    <state x="168" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1592448242055" />
     <state x="421" y="84" key="FileChooserDialogImpl" timestamp="1592447915837">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="421" y="84" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1592447915836" />
-    <state x="501" y="233" width="261" height="276" key="Github.ShareDialog" timestamp="1592447774016">
+    <state x="501" y="233" width="261" height="276" key="Github.ShareDialog" timestamp="1592448405663">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="501" y="233" width="261" height="276" key="Github.ShareDialog/0.0.1280.680@0.0.1280.680" timestamp="1592447774016" />
+    <state x="501" y="233" width="261" height="276" key="Github.ShareDialog/0.0.1280.680@0.0.1280.680" timestamp="1592448405663" />
     <state width="888" height="352" key="GridCell.Tab.0.bottom" timestamp="1592448000335">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -339,10 +355,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1592447862484" />
-    <state x="233" y="64" key="Vcs.Push.Dialog.v2" timestamp="1591239962723">
+    <state x="233" y="64" key="Vcs.Push.Dialog.v2" timestamp="1592448262596">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="64" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1591239962723" />
+    <state x="233" y="64" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1592448262596" />
     <state x="336" y="167" key="com.intellij.ide.util.TipDialog" timestamp="1592448076714">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
